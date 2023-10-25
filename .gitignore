@@ -25,3 +25,5 @@ dist-ssr
 
 public/sources/files
 public/sources/styles
+
+src/assets/json/*
