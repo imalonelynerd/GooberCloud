@@ -1,0 +1,24 @@
+@import "base.css";
+
+body {
+    background: var(--bg);
+    font-family: monospace;
+    color: var(--text);
+}
+
+a {
+    color: var(--a);
+}
+
+h1 {
+    color: var(--h1);
+    text-align: center;
+}
+
+h2 {
+    color: var(--h2);
+}
+
+h3 {
+    color: var(--h3);
+}
